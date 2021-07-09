@@ -1,0 +1,42 @@
+body{
+    background-image: url("images/retrosupply-jLwVAUtLOAQ-unsplash.jpg") ;
+    background-size:cover ;
+    font-family: 'Arial',;
+    font-weight: 900;
+
+}
+    
+
+form{
+    border: 1px solid black;
+    height: 35vh;
+    width: 30vw;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 10px;
+
+    background-color: #ffffff;
+    opacity: 0.6;
+
+    margin: auto;
+    margin-top: 30vh;
+}
+
+#main{
+    border: 1px solid black;
+    height: 35vh;
+    width: 30vw;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 10px;
+
+    background-color: #ffffff;
+    opacity: 0.6;
+
+    margin: auto;
+    margin-top: 30vh;
+}
+
+h2{
+    margin-top: 15vh;
+}
